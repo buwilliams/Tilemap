@@ -1,4 +1,7 @@
 # Tilemap
+
+![Tilemap preview](tilemap.png)
+
  Learning Tilemap in Unity
  
  ## Why?
